@@ -1,0 +1,1 @@
+https://dev.to/caiorcferreira/hosting-an-api-in-firebase-writen-with-typescript-and-nest
